@@ -1,4 +1,4 @@
-header.topo-site{
+header.top-site{
 	padding:20px 0;
 }
 
@@ -7,7 +7,7 @@ header.topo-site{
 	font-family: Verdana;
 }
 
-header.topo-site ul li{
+header.top-site ul li{
 	position: relative;
 	top:4px;
 	padding:0 20px;
@@ -15,7 +15,7 @@ header.topo-site ul li{
 	display: inline-block;
 }
 
-header.topo-site a{
+header.top-site a{
 	text-decoration: none;
 }
 
