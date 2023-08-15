@@ -1,3 +1,3 @@
 # flexbox-framework
 
-Simples framework css para ser utilizado em futuros projetos
+Meu framework para ser utilizado em futuros projetos. *Muita coisa precisa ser feita ainda*
